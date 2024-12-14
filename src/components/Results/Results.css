@@ -1,0 +1,21 @@
+.header {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.table-container {
+  margin: 20px auto; 
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  width: 80%;
+  border-collapse: collapse;
+  box-shadow: var(--box-shadow);
+}
+
+
+
+  
